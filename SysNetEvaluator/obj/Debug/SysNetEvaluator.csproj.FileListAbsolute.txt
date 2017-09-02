@@ -1,0 +1,14 @@
+C:\Users\night_wolf\Source\Repos\SysNetEvaluator\SysNetEvaluator\bin\Debug\SysNetEvaluator.exe.config
+C:\Users\night_wolf\Source\Repos\SysNetEvaluator\SysNetEvaluator\bin\Debug\SysNetEvaluator.exe
+C:\Users\night_wolf\Source\Repos\SysNetEvaluator\SysNetEvaluator\bin\Debug\SysNetEvaluator.pdb
+C:\Users\night_wolf\Source\Repos\SysNetEvaluator\SysNetEvaluator\obj\Debug\MainWindow.g.cs
+C:\Users\night_wolf\Source\Repos\SysNetEvaluator\SysNetEvaluator\obj\Debug\App.g.cs
+C:\Users\night_wolf\Source\Repos\SysNetEvaluator\SysNetEvaluator\obj\Debug\SysNetEvaluator_MarkupCompile.cache
+C:\Users\night_wolf\Source\Repos\SysNetEvaluator\SysNetEvaluator\obj\Debug\SysNetEvaluator_MarkupCompile.lref
+C:\Users\night_wolf\Source\Repos\SysNetEvaluator\SysNetEvaluator\obj\Debug\MainWindow.baml
+C:\Users\night_wolf\Source\Repos\SysNetEvaluator\SysNetEvaluator\obj\Debug\SysNetEvaluator.g.resources
+C:\Users\night_wolf\Source\Repos\SysNetEvaluator\SysNetEvaluator\obj\Debug\SysNetEvaluator.Properties.Resources.resources
+C:\Users\night_wolf\Source\Repos\SysNetEvaluator\SysNetEvaluator\obj\Debug\SysNetEvaluator.csproj.GenerateResource.Cache
+C:\Users\night_wolf\Source\Repos\SysNetEvaluator\SysNetEvaluator\obj\Debug\SysNetEvaluator.csproj.CoreCompileInputs.cache
+C:\Users\night_wolf\Source\Repos\SysNetEvaluator\SysNetEvaluator\obj\Debug\SysNetEvaluator.exe
+C:\Users\night_wolf\Source\Repos\SysNetEvaluator\SysNetEvaluator\obj\Debug\SysNetEvaluator.pdb
